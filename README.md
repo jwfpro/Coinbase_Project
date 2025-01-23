@@ -14,7 +14,7 @@ pip3 install -r requirements.txt
 
 Generate your OpenAI API token and store as environment variable to use this service.
 
-To start tbe service, run:
+To start the service, run:
 ```
 python3 Coinbase_TH_Q1.py
 ```
